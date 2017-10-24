@@ -1,0 +1,6 @@
+5
+insert 10
+insert 7
+insert 2
+insert 14
+insert 9
